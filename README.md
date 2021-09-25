@@ -1,2 +1,2 @@
 # Shell-examples
-Examples for shell programming
+Examples for bash programming
